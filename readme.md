@@ -3,6 +3,7 @@
 Flatdango is a web application that allows users to purchase movie tickets from the Flatiron Movie Theater. This README provides an overview of the project, installation instructions, features implemented, and optional enhancements.
 
 ## live link
+https://flatdagomovies.netlify.app
 
 ## Engineer
 
@@ -72,4 +73,4 @@ To set up the project locally, follow these steps:
 5. Push to the branch (`git push origin feature/feature-name`).
 6. Create a new Pull Request.
 
-## Have fun!
+## Jibambee!
