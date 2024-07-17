@@ -1,5 +1,5 @@
 // Define the endpoint for movie data
-const db = "http://localhost:3000/films";
+const db = "https://mywork-eta-three.vercel.app/films";
 
 // Wait for the DOM content to be loaded before executing the script
 document.addEventListener("DOMContentLoaded", () => {
